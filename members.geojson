@@ -3,25 +3,15 @@
 
   "features": [
 
-    {
+  {
       "type": "Feature",
       "properties": {
-        "nama": "Dany Puguh Laksono",
-        "alamat": "Gresik"
+        "nama": "Mirota Kampus",
+        "alamat": "Terban"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [112.65199, -7.16524]
-      }
-    }, {
-      "type": "Feature",
-      "properties": {
-        "nama": "dummy",
-        "alamat": "antahberantah"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [110, -7.3]
+        "coordinates": [110.37445, -7.77629]
       }
     }
 
